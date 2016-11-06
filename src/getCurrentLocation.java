@@ -1,5 +1,11 @@
 
 
+/*  
+     Remember to have these permissions in the manifest file:
+     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+*/
+
 package comdanielbereza50cs410_16_ct_fasttrack_project.httpsgithub.ct_fasttrack_project;
 
 import com.google.android.gms.maps.GoogleMap;
